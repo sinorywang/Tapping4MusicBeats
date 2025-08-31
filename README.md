@@ -23,8 +23,8 @@ You need to have Python and `pip` installed on your system.
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YourUsername/Sinory-BPM-Recorder.git](https://github.com/YourUsername/Sinory-BPM-Recorder.git)
-    cd Sinory-BPM-Recorder
+    git clone https://github.com/sinorywang/Tapping4MusicBeats.git
+    cd Tapping4MusicBeats
     ```
 
 2.  **Create a virtual environment (recommended):**
